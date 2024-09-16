@@ -75,11 +75,11 @@ Now this is ***style***
    1. list in a list
    2. and so on
 
-- first domething
+- first something
 - second something
-- 1984\
+- 1984
 
-![here should be image][s1.png]
+![here should be image][s2.png]
 
 this is real 'code'
 
