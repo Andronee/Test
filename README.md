@@ -79,7 +79,7 @@ Now this is ***style***
 - second something
 - 1984
 
-![here should be image][s2.png]
+![here should be image][Test/s2.png]
 
 this is real 'code'
 
